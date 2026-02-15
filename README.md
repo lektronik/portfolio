@@ -10,7 +10,7 @@ Open to remote software development roles
 
 ## 👤 About
 
-I'm a Junior Software Developer with a background in electronic engineering and over 16 years working in fast-paced, customer-facing environments. I build things with Python, Django, and REST APIs, and I'm comfortable with OOP, networking, and Linux systems.
+I am a motivated and detail-oriented Software Developer with a strong foundation in electronic engineering and over a decade of experience in fast-paced environments. Skilled in Python, Django, and REST APIs, with a solid understanding of OOP, networks, and Linux.
 
 In my previous role as bar manager, I automated production workflows with ERP systems — cutting costs by 75%. I also built a small web app for managing staff schedules. I enjoy hardware too: I've repaired phones and small electronics, and I've built IoT monitoring systems at home.
 
@@ -55,7 +55,7 @@ A feature-rich Discord bot with 16+ features: governance voting, leaderboards, n
 [View on GitHub →](https://github.com/lektronik/Discord-Bot-Template)
 
 ### ⚡ Solar Panel Smart Metering & Zero Export Compliance
-Real-time solar monitoring with PID-controlled zero-export compliance. Collects 12+ telemetry fields per inverter, stores in InfluxDB, and visualizes through a Grafana dashboard with HTTP toggle API.  
+Real-time solar monitoring using an Integral Controller algorithm for zero-export compliance. Features a **generic power meter interface**, collects comprehensive telemetry (Voltage, Current, PF, Energy), and visualizes 34+ metrics via a custom Grafana dashboard.  
 **Stack:** Python · ESP32 · Raspberry Pi · MQTT · InfluxDB · Grafana · OpenDTU  
 [View on GitHub →](https://github.com/lektronik/Solar-Panel-Smart-Metering-Zero-Export-Compliance)
 
@@ -80,7 +80,7 @@ Check out my [GitHub profile](https://github.com/lektronik) for more code sample
 
 ## 💼 Experience
 
-**Head Bartender · Mixologist · Barista**  
+**Head Bartender · Manager**  
 Multiple Venues — Greece (Jun 2009 – present)
 - Implemented workflows and ERP systems, automating production and cutting costs by 75%
 - Built a web app for managing employee schedules and vacation time
@@ -109,7 +109,7 @@ Troubleshooting and repair of smartphones and small electronic devices
 ## 🌍 Languages
 
 - 🇬🇷 Greek — Native
-- 🇬🇧 English — Fluent (certified)
+- 🇬🇧 English — Professional (certified)
 
 ---
 
