@@ -1,6 +1,6 @@
 # Aristotelis Aslanidis
 
-**Software Developer**  
+**Python Developer**  
 Open to remote software development roles
 
 📧 [telis.aslanidis.io@gmail.com](mailto:telis.aslanidis.io@gmail.com)
@@ -10,78 +10,85 @@ Open to remote software development roles
 
 ## 👤 About
 
-I am a motivated and detail-oriented Software Developer with a strong foundation in electronic engineering and over a decade of experience in fast-paced environments. Skilled in Python, Django, and REST APIs, with a solid understanding of OOP, networks, and Linux.
+Software Developer with an Electronic Engineering background, building and shipping Python-based tools and APIs. Published on PyPI, proficient in Django, Django Ninja, REST architecture, and IoT systems.
 
-In my previous role as bar manager, I automated production workflows with ERP systems — cutting costs by 75%. I also built a small web app for managing staff schedules. I enjoy hardware too: I've repaired phones and small electronics, and I've built IoT monitoring systems at home.
-
-I'm looking for remote opportunities where I can keep learning and contribute to real-world software projects.
+I blend 15+ years of operational management with a systems-thinking mindset to deliver clean, tested, production-grade code. Currently leveraging AI-assisted workflows to accelerate development and explore new frontiers.
 
 ---
 
 ## 🛠️ Skills
 
 **Backend & Web**  
-Python · Django · Django REST Framework · Node.js · TypeScript · JavaScript · HTML · CSS · REST APIs · PostgreSQL · SQLite · MongoDB · JWT · Git
+Python · Django · Django Ninja · DRF · Node.js · TypeScript · REST APIs · PostgreSQL · Docker · GitHub Actions · PyPI
 
 **Hardware & Embedded**  
-C · C++ · MATLAB · Assembly · PLC · CAD · ESP32 · Raspberry Pi · MQTT · Grafana · InfluxDB
+C · C++ · ESP32 · Raspberry Pi · MQTT · Grafana · InfluxDB · MATLAB · CAD · PLC
 
-**Other**  
-Docker · Linux (Debian) · SQL · DevOps basics
+**AI & Tooling**  
+AI-Assisted Development · LangGraph · Prompt Engineering · AST Parsing · Rapid Prototyping
 
-**Soft Skills**  
-Communication · Teamwork · Problem Solving · Customer Service · Multitasking
+**Professional**  
+Problem Solving · Team Leadership · Communication · Agile Workflow · Systems Thinking
 
 ---
 
 ## 📜 Certificates
 
-- [LangGraph Essentials with TypeScript](https://www.freecodecamp.org/certification/aristotelis_asl/langgraph-essentials) — 2025
-- [Introduction to Node.js (LFW111)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/59fd1d9c-7e61-465a-90cb-1cf2f3613a70-b756e3ef-26df-47c8-accf-cb314de28623-certificate.pdf) — Linux Foundation, 2025
+- [LangGraph Essentials with TypeScript](https://academy.langchain.com/certificates/gskcgp7jxr) — LangChain Academy, 2025
+- [Node.js Application Development (LFW111)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/59fd1d9c-7e61-465a-90cb-1cf2f3613a70-b756e3ef-26df-47c8-accf-cb314de28623-certificate.pdf) — Linux Foundation, 2025
 - [Data Visualization](https://www.freecodecamp.org/certification/aristotelis_asl/data-visualization) — freeCodeCamp, 2025
 - [Responsive Web Design](https://www.freecodecamp.org/certification/aristotelis_asl/responsive-web-design) — freeCodeCamp, 2025
-- [Back End Development and APIs](https://freecodecamp.org/certification/fcc80984de3-b9d2-4a83-8801-58ed3189cd24/back-end-development-and-apis) — freeCodeCamp, 2024
+- [Back End Development and APIs](https://www.freecodecamp.org/certification/aristotelis_asl/back-end-development-and-apis) — freeCodeCamp, 2024
 - E.C.D.L. Core Certificate — 2007
 - Marketing & Management Principles — Hellenic Business Administration Company, 2013
-- Advanced Mixology Seminars — Bar Studies
 
 ---
 
 ## 💻 Projects
 
-### 🤖 Discord Bot Template
-A feature-rich Discord bot with 16+ features: governance voting, leaderboards, network stats, moderation, and a Flask admin dashboard. Modular cog-based architecture.  
-**Stack:** Python · discord.py · SQLite · Flask  
-[View on GitHub →](https://github.com/lektronik/Discord-Bot-Template)
+### 🤖 DRF to Django Ninja Compiler
+An intelligent CLI tool that uses Python's AST module to automatically convert Django REST Framework code into modern Django Ninja equivalents. Handles serializers, views, URLs, permissions, settings, and @action decorators. Published on PyPI with 47 automated tests and full CI/CD.  
+**Stack:** Python · AST · Typer · Rich · PyPI · GitHub Actions  
+[View on GitHub →](https://github.com/lektronik/drf-to-ninja-compiler) · [Install from PyPI →](https://pypi.org/project/drf-to-ninja/)
 
 ### ⚡ Solar Panel Smart Metering & Zero Export Compliance
 Real-time solar monitoring using an Integral Controller algorithm for zero-export compliance. Features a **generic power meter interface**, collects comprehensive telemetry (Voltage, Current, PF, Energy), and visualizes 34+ metrics via a custom Grafana dashboard.  
 **Stack:** Python · ESP32 · Raspberry Pi · MQTT · InfluxDB · Grafana · OpenDTU  
 [View on GitHub →](https://github.com/lektronik/Solar-Panel-Smart-Metering-Zero-Export-Compliance)
 
+### 🛍️ E-commerce Backend API
+Production-grade REST API backend with Stripe payment integration and automated Printify synchronization.  
+**Stack:** Django REST Framework · PostgreSQL · Docker · Stripe  
+[View on GitHub →](https://github.com/lektronik/drf-ecommerce-api)
 
-### 🍸 Classic Cocktails & Signatures API
-Recipe management API for classic and signature cocktails. Full CRUD operations, image uploads, search, ratings, and authoring endpoints. Verified and containerized.
-**Stack:** Python · Django 5 · Django REST Framework · SQLite · Pillow · Docker
+### 🤖 Discord Bot Template
+Feature-rich Discord bot with 16+ features including governance voting, leaderboards, network stats, moderation, and a Flask admin dashboard. Modular cog-based architecture.  
+**Stack:** Python · discord.py · SQLite · Flask  
+[View on GitHub →](https://github.com/lektronik/Discord-Bot-Template)
+
+### 🍸 Classic Cocktails API
+Robust REST API for recipe management with full CRUD, image uploads, search filtering, and containerization.  
+**Stack:** Python · Django 5 · DRF · PostgreSQL · Docker  
 [View on GitHub →](https://github.com/lektronik/classic-cocktails-api)
 
-### 🔗 More Projects
-Check out my [GitHub profile](https://github.com/lektronik) for more code samples and experiments.
+### 🚀 Django Ninja Starter
+Production-ready Django Ninja boilerplate with JWT authentication, security hardening, and automated tests.  
+**Stack:** Django Ninja · JWT · Docker · Pytest  
+[View on GitHub →](https://github.com/lektronik/django-ninja-starter)
 
 ---
 
 ## 🎓 Education
 
-- **Electronic Engineering** (69/72 credits) — TEI Sindos / D.I.P.A.E.Th.
+- **Electronic Engineering** (69/72 modules) — TEI Sindos / D.I.P.A.E.Th.
 - **1000+ hours of online courses** in Linux Administration, Software Development, and Cybersecurity — freeCodeCamp, Udemy, HackTheBox
-- 18th Senior High School of Thessaloniki (2007–2010)
 
 ---
 
 ## 💼 Experience
 
 **Head Bartender · Manager**  
-Multiple Venues — Greece (Jun 2009 – present)
+Multiple Venues — Greece (Jun 2009 – Sep 2025)
 - Implemented workflows and ERP systems, automating production and cutting costs by 75%
 - Built a web app for managing employee schedules and vacation time
 - Designed and sold signature cocktail recipes; managed menus and supplier relations
@@ -92,17 +99,16 @@ Immigrant Center — Thessaloniki (Sept 2012 – Jan 2013)
 - Taught basic computer skills to 120+ people, focusing on employability
 - Built a functional computer lab using recycled parts
 
-**Freelance Hardware Repair**  
-Troubleshooting and repair of smartphones and small electronic devices
-
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Docker & containerization
-- Cloud deployment
-- Advanced Django REST Framework
-- AI tools & LangGraph
+- AI-assisted development workflows & LLM tooling
+- n8n workflow automation
+- AWS cloud infrastructure
+- Kubernetes & container orchestration
+- System design & distributed architectures
+- Advanced Django Ninja patterns
 
 ---
 
