@@ -466,6 +466,7 @@ a {
     padding-left: 25px;
     position: relative;
     color: var(--text-muted);
+    list-style: none;
 }
 
 .cert-list li::before {
