@@ -80,24 +80,23 @@ Production-ready Django Ninja boilerplate with JWT authentication, security hard
 
 ## 🎓 Education
 
-- **Electronic Engineering** (69/72 modules) — TEI Sindos / D.I.P.A.E.Th.
+- **Electronic Engineering** (Passed 69/72 Classes) — TEI Sindos / D.I.P.A.E.Th.
 - **1000+ hours of online courses** in Linux Administration, Software Development, and Cybersecurity — freeCodeCamp, Udemy, HackTheBox
 
 ---
 
 ## 💼 Experience
 
-**Head Bartender · Manager**  
-Multiple Venues — Greece (Jun 2009 – Sep 2025)
-- Implemented workflows and ERP systems, automating production and cutting costs by 75%
-- Built a web app for managing employee schedules and vacation time
-- Designed and sold signature cocktail recipes; managed menus and supplier relations
-- Handled inventory, cash flow, and team training
+**Operations General Manager & Technical Lead**  
+Multiple High-Volume Venues — Greece (Jun 2009 – Sep 2025)
+- Spearheaded the integration of ERP systems and automated inventory workflows, slashing operational costs by nearly 75%.
+- Engineered and deployed a custom Python web application to streamline employee scheduling and payroll tracking for a team of 15+ staff.
+- Directed daily operations, P&L management, and vendor negotiations while maintaining elite customer satisfaction metrics.
 
-**Volunteer Teacher**  
+**Technical Instructor & Lab Architect**  
 Immigrant Center — Thessaloniki (Sept 2012 – Jan 2013)
-- Taught basic computer skills to 120+ people, focusing on employability
-- Built a functional computer lab using recycled parts
+- Delivered comprehensive computer literacy curricula to 120+ marginalized students, significantly elevating their technical proficiency.
+- Architected and deployed a fully functional 15-station computer laboratory by sourcing, repairing, and optimizing recycled hardware components.
 
 ---
 
