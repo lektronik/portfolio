@@ -1,7 +1,7 @@
 # Aristotelis Aslanidis
 
-**Python Developer**  
-Open to remote software development roles
+**AI Workflow Architect & Python Developer**  
+Open to remote software development and automation consulting roles
 
 📧 [telis.aslanidis.io@gmail.com](mailto:telis.aslanidis.io@gmail.com)
 🔗 [GitHub](https://github.com/lektronik) • 💼 [LinkedIn](https://www.linkedin.com/in/aristotelis-aslanidis/)
@@ -10,22 +10,25 @@ Open to remote software development roles
 
 ## 👤 About
 
-Software Developer with an Electronic Engineering background, building and shipping Python-based tools and APIs. Published on PyPI, proficient in Django, Django Ninja, REST architecture, and IoT systems.
+AI Workflow Architect with an Electronic Engineering background, building and shipping production-grade automation pipelines, REST APIs, and IoT systems. Published on PyPI, proficient in n8n, Django Ninja, LangGraph, and AI-assisted development workflows.
 
-I blend 15+ years of operational management with a systems-thinking mindset to deliver clean, tested, production-grade code. Currently leveraging AI-assisted workflows to accelerate development and explore new frontiers.
+I blend 15+ years of operational management with a systems-thinking mindset to deliver clean, tested, production-grade code. Currently building commercial AI recruitment infrastructure and custom n8n community nodes.
 
 ---
 
 ## 🛠️ Skills
 
 **Backend & Web**  
-Python · Django · Django Ninja · DRF · Node.js · TypeScript · REST APIs · PostgreSQL · Docker · GitHub Actions · PyPI
+Python · Django · Django Ninja · FastAPI · DRF · Node.js · TypeScript · REST APIs · PostgreSQL · Docker · GitHub Actions · PyPI
+
+**Automation & AI**  
+n8n · LangGraph · LangChain · Google Gemini · AI Agents · Prompt Engineering · Webhooks · ETL Pipelines
+
+**Frontend**  
+Next.js · TypeScript · Tailwind CSS · Responsive Web Design
 
 **Hardware & Embedded**  
-C · C++ · ESP32 · Raspberry Pi · MQTT · Grafana · InfluxDB · MATLAB · CAD · PLC
-
-**AI & Tooling**  
-AI-Assisted Development · LangGraph · Prompt Engineering · AST Parsing · Rapid Prototyping
+C · C++ · ESP32 · Raspberry Pi · MQTT · Grafana · InfluxDB · GPIO
 
 **Professional**  
 Problem Solving · Team Leadership · Communication · Agile Workflow · Systems Thinking
@@ -46,6 +49,15 @@ Problem Solving · Team Leadership · Communication · Agile Workflow · Systems
 
 ## 💻 Projects
 
+### 🧠 TalentOS — AI Recruitment Pipeline
+Autonomous HR platform with a Django Ninja + Next.js stack, orchestrated by n8n. Features AI-powered CV scoring via Google Gemini, explainable dual-scoring (ATS + Culture Fit), blind hiring mode, cross-job talent pool intelligence, multi-modal video screening, and Discord-based human-in-the-loop approvals. Multi-tenant SaaS architecture with GDPR compliance. Published on n8n.  
+**Stack:** n8n · Django Ninja · Next.js · Google Gemini · Stripe · Discord · Pydantic · Clerk
+
+### ⚡ n8n Zero Export — Solar IoT Nodes
+Custom n8n community node package (TypeScript/npm) for real-time solar energy monitoring and zero-export control. Includes Shelly Meter, OpenDTU, Zero Export Controller, and Raspberry Pi GPIO nodes. Deployed on a Raspberry Pi 3 with a physical hardware override switch.  
+**Stack:** TypeScript · n8n · npm · Raspberry Pi · GPIO · REST APIs  
+[View on GitHub →](https://github.com/lektronik/n8n-nodes-zero-export)
+
 ### 🤖 DRF to Django Ninja Compiler
 An intelligent CLI tool that uses Python's AST module to automatically convert Django REST Framework code into modern Django Ninja equivalents. Handles serializers, views, URLs, permissions, settings, and @action decorators. Published on PyPI with 47 automated tests and full CI/CD.  
 **Stack:** Python · AST · Typer · Rich · PyPI · GitHub Actions  
@@ -62,14 +74,9 @@ Production-grade REST API backend with Stripe payment integration and automated 
 [View on GitHub →](https://github.com/lektronik/drf-ecommerce-api)
 
 ### 🤖 Discord Bot Template
-Feature-rich Discord bot with 16+ features including governance voting, leaderboards, network stats, moderation, and a Flask admin dashboard. Modular cog-based architecture.  
+Feature-rich Discord bot with 16+ features including governance voting, leaderboards, network stats, moderation, and a Flask admin dashboard. Modular cog-based architecture. Manages an international community across 5 languages.  
 **Stack:** Python · discord.py · SQLite · Flask  
 [View on GitHub →](https://github.com/lektronik/Discord-Bot-Template)
-
-### 🍸 Classic Cocktails API
-Robust REST API for recipe management with full CRUD, image uploads, search filtering, and containerization.  
-**Stack:** Python · Django 5 · DRF · PostgreSQL · Docker  
-[View on GitHub →](https://github.com/lektronik/classic-cocktails-api)
 
 ### 🚀 Django Ninja Starter
 Production-ready Django Ninja boilerplate with JWT authentication, security hardening, and automated tests.  
@@ -100,14 +107,11 @@ Immigrant Center — Thessaloniki (Sept 2012 – Jan 2013)
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Building
 
-- AI-assisted development workflows & LLM tooling
-- n8n workflow automation
-- AWS cloud infrastructure
-- Kubernetes & container orchestration
-- System design & distributed architectures
-- Advanced Django Ninja patterns
+- n8n community nodes for solar IoT (TypeScript/npm)
+- TalentOS v4.0 — Full-stack AI recruitment SaaS (Django Ninja + Next.js)
+- AI-powered workflow automation consulting
 
 ---
 
