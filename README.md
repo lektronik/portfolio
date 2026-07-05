@@ -37,6 +37,11 @@ Problem Solving · Team Leadership · Communication · Agile Workflow · Systems
 
 ## 📜 Certificates
 
+- [n8n Professional Certificate](https://credentials.learn.n8n.io/credentials/99ca22caa57f40369825238e92fb76ae/) — n8n Academy, 2026
+- [n8n103 — AI, Testing & Best Practices](https://badges.n8n.io/56f82e85-29ea-4221-8bbc-d813d963c85a) — n8n Academy, 2026
+- [n8n102 — APIs & Connected Workflows](https://badges.n8n.io/ed378525-1cfe-40d7-9cf4-aa720a61d502) — n8n Academy, 2026
+- [N8N101 — Your First Workflows](https://badges.n8n.io/4ecea575-c3cb-48e5-a789-007fa89a010a) — n8n Academy, 2026
+- [n8n Quickstart](https://badges.n8n.io/e6f12e8e-c5ba-4d04-97a2-abd9f6c5c1be) — n8n Academy, 2026
 - [LangGraph Essentials with TypeScript](https://academy.langchain.com/certificates/gskcgp7jxr) — LangChain Academy, 2025
 - [Node.js Application Development (LFW111)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/59fd1d9c-7e61-465a-90cb-1cf2f3613a70-b756e3ef-26df-47c8-accf-cb314de28623-certificate.pdf) — Linux Foundation, 2025
 - [Data Visualization](https://www.freecodecamp.org/certification/aristotelis_asl/data-visualization) — freeCodeCamp, 2025
